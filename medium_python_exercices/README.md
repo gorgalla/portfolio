@@ -1,0 +1,1 @@
+I strengthen my programming skills with Python, one of the most used languages. I learn concepts such as functions, understandings, errors and file management that will raise my level of programming.

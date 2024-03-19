@@ -1,0 +1,1 @@
+I manipulate and transform large amounts of numerical data and tables with two of the most used libraries in data science: Pandas and NumPy. I create and use DataFrames and Arrays that allow me to analyze data easily.
