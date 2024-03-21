@@ -11,5 +11,5 @@ print('hola mundo')
 valor = 99
 print(type(valor))
 
-print(2 ** 4)
+print(2 ** 4) 
 
