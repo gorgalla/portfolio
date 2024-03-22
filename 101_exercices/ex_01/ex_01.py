@@ -21,8 +21,6 @@ def anagrama(s1, s2):
 s1 = input("Introduce una palabra => ")
 s2 = input("Introduce otra palabra => ")
 
-if s1 == False or s2 == False:
-    return(False)
 if anagrama(s1, s2):
     print(f"{s1} y {s2} son un anagrama")
 else:
